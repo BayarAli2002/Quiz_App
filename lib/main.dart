@@ -71,7 +71,7 @@ class _MyAppState extends State<MyApp> {
       'answers': [
         {'text': 'Hyper Text Markup Language', 'score': 1},
         {'text': 'High Text Markup Language', 'score': 0},
-        {'text': 'Hyper Tabular Markup Language', 'score': 0},
+        {'text': 'Cascade Style Sheet', 'score': 0},
         {'text': 'None of these', 'score': 0},
       ]
     },
@@ -136,7 +136,7 @@ class _MyAppState extends State<MyApp> {
       'answers': [
         {'text': 'To terminate the loop and exit', 'score': 1},
         {'text': 'To skip the current iteration', 'score': 0},
-        {'text': 'To continue to the next iteration', 'score': 0},
+        {'text': 'To assign a pointer', 'score': 0},
         {'text': 'To pause the loop', 'score': 0},
       ]
     },
