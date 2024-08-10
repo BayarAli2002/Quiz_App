@@ -5,7 +5,6 @@ import 'answer.dart';
 import 'result.dart';
 
 void main() => runApp(MyApp());
-
 //str to create StatelessWidget directly
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
